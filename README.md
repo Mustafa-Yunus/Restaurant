@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/05f823eb-2ee6-4200-8901-eed4c5ef63fc)
 
 
-🔗 **Live Demo:** [Restaurant by Mustafa Yunus](https://moazahmed3.github.io/Restaurant/)
+🔗 **Live Demo:** [Restaurant by Mustafa Yunus](https://mustafa-yunus.github.io/Restaurant/)
   
 ---
 
