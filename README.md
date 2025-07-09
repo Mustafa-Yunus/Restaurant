@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/05f823eb-2ee6-4200-8901-eed4c5ef63fc)
 
 
-🔗 **Live Demo:** [Restaurant](https://moazahmed3.github.io/Restaurant/)
+🔗 **Live Demo:** [Restoran by Moaz Ahmed](https://moazahmed3.github.io/Restaurant/)
   
 ---
 
@@ -69,4 +69,5 @@
   - Their session is saved in localStorage
   - Can add and remove items from cart
 - Logout button clears session
+
 
